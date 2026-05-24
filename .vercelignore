@@ -1,0 +1,12 @@
+# Vercel deploy ignores
+.git
+.gitignore
+.vscode
+.idea
+references/
+*.zip
+node_modules/
+*.log
+.env
+.env.local
+.DS_Store
